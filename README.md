@@ -16,12 +16,12 @@
   <tr>
     <th>
       $\color{c49927}\normalsize{\texttt{i spend most of my time in game AFK, but feel}}$ <br>
-      $\color{c49927}\normalsize{\texttt{free to interact or sit with me! i often respond}}$ <br>
-      $\color{c49927}\normalsize{\texttt{to private messages very late and arent very good}}$ <br>
-      $\color{c49927}\normalsize{\texttt{at continuing conversation, though.. i promise im}}$ <br>
-      $\color{c49927}\normalsize{\texttt{not ghosting you on purpose!!! (>ᴗ−)☆ i dont care}}$ <br>
+      $\color{c49927}\normalsize{\texttt{feel free to interact or sit with me! i often}}$ <br>
+      $\color{c49927}\normalsize{\texttt{respond to whispers very late and arent very }}$ <br>
+      $\color{c49927}\normalsize{\texttt{good at continuing conversation, though.. i}}$ <br>
+      $\color{c49927}\normalsize{\texttt{ promise im not ghosting you on purpose!!! idc}}$ <br>
       $\color{c49927}\normalsize{\texttt{about inspo/copying, queer infighting, or ship}}$ <br>
-      $\color{c49927}\normalsize{\texttt{discorse (proship dni tho pls). i'm minor! eng only}}$ <br>
+      $\color{c49927}\normalsize{\texttt{discorse (proship dni tho). i'm minor! eng only}}$ <br>
     </th>
   </tr>
   </table>
@@ -29,7 +29,7 @@
   <img src="https://imgur.com/MZQKRfE.png" alt="Bye" width="250">
 <img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
   
-$\color{E9CD63}\large{\texttt{(⌐□ᴗ□)}}$ <br>
+$\color{E9CD63}\large{\texttt{(>ᴗ−)☆}}$ <br>
 $\color{E9CD63}\large{\texttt{this is only for ponytown!!!}}$ <br>
 <img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
 <img src="https://imgur.com/TzJz5YZ.png" alt="Footer" width="1000">
