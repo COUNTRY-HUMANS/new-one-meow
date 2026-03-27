@@ -33,6 +33,12 @@ $\color{E9CD63}\large{\texttt{(>ᴗ−)☆}}$ <br>
 $\color{E9CD63}\large{\texttt{this is only for ponytown!!!}}$ <br>
 <img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
 <img src="https://imgur.com/TzJz5YZ.png" alt="Footer" width="1000">
+[![credit](https://imgur.com/tfK3dgY.png)](https://www.tumblr.com/coco-coquette/769451441862688768/beige-templates)
+[![credit](https://imgur.com/tfK3dgY.png)](https://www.tumblr.com/rori-is-writing/790067797212430336/dashed-dividers)
+[![credit](https://imgur.com/tfK3dgY.png)](https://oceanfront.neocities.org/graphics/mainpage)
+[![credit](https://imgur.com/tfK3dgY.png)](https://likeymelikeylikeylikey2.neocities.org/misc)
+[![credit](https://imgur.com/tfK3dgY.png)](https://ca.pinterest.com/pin/4855512094878176/)
+[![credit](https://imgur.com/tfK3dgY.png)](https://toyhou.se/32315427.my-tiny-pride-flags-v2)
 </div>
 </body>
 </html>
