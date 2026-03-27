@@ -21,7 +21,7 @@
       $\color{c49927}\normalsize{\texttt{at continuing conversation, though.. i promise im}}$ <br>
       $\color{c49927}\normalsize{\texttt{not ghosting you on purpose!!! (>ᴗ−)☆ i dont care}}$ <br>
       $\color{c49927}\normalsize{\texttt{about inspo/copying, queer infighting, or ship}}$ <br>
-      $\color{c49927}\normalsize{\texttt{discorse (proship dni tho pls). i'm minor!!!!}}$ <br>
+      $\color{c49927}\normalsize{\texttt{discorse (proship dni tho pls). i'm minor! eng only}}$ <br>
     </th>
   </tr>
   </table>
