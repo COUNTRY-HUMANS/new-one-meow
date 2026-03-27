@@ -7,7 +7,7 @@
 <img src="https://imgur.com/tfK3dgY.png">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/COUNTRY-HUMANS?style=flat&label=FRIENDS;&labelColor=F0E68C&color=FAFAD2">
 <img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
-<img src="https://imgur.com/6Mjrizb.png" alt="Cats" align="left">
+<img src="https://imgur.com/6Mjrizb.png" alt="Cats" align="left" width="420">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=40&duration=1000&pause=&color=E9CD63&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Welcome~!" alt="Typing SVG" /></a> <br>
   <img src="https://imgur.com/K6U8hbE.png" width="40">
   <img src="https://imgur.com/UZ99rm0.png" width="40">
@@ -15,13 +15,13 @@
   <table>
   <tr>
     <th>
-      $\color{c49927}\normalsize{\texttt{i spend most of my time in game AFK, but feel}}$ <br>
-      $\color{c49927}\normalsize{\texttt{feel free to interact or sit with me! i often}}$ <br>
-      $\color{c49927}\normalsize{\texttt{respond to whispers very late and arent very }}$ <br>
-      $\color{c49927}\normalsize{\texttt{good at continuing conversation, though.. i}}$ <br>
-      $\color{c49927}\normalsize{\texttt{ promise im not ghosting you on purpose!!! idc}}$ <br>
-      $\color{c49927}\normalsize{\texttt{about inspo/copying, queer infighting, or ship}}$ <br>
-      $\color{c49927}\normalsize{\texttt{discorse (proship dni tho). i'm minor! eng only}}$ <br>
+      $\color{c49927}\normalsize{\texttt{i spend most of my time offtab, but feel}}$ <br>
+      $\color{c49927}\normalsize{\texttt{free to interact or sit w me! i often}}$ <br>
+      $\color{c49927}\normalsize{\texttt{reply to whispers very late and arent}}$ <br>
+      $\color{c49927}\normalsize{\texttt{very good at continuing convos tho..}}$ <br>
+      $\color{c49927}\normalsize{\texttt{i promise im not ghosting you on purpose!}}$ <br>
+      $\color{c49927}\normalsize{\texttt{ idc about copying, queer infighting, or}}$ <br>
+      $\color{c49927}\normalsize{\texttt{ship discourse (proship dni tho).}}$ <br>
     </th>
   </tr>
   </table>
